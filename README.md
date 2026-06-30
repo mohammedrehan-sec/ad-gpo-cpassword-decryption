@@ -1,8 +1,3 @@
-Active<img width="582" height="120" alt="Screenshot 2026-04-10 184514" src="https://github.com/user-attachments/assets/e38cb6a3-fd3f-47c4-8108-768ef78c945a" />
-<img width="660" height="435" alt="Screenshot 2026-04-10 183806" src="https://github.com/user-attachments/assets/7ea09ab6-8c07-4726-a999-2984a8c00a44" />
-<img width="1331" height="526" alt="Screenshot 2026-04-10 183346" src="https://github.com/user-attachments/assets/af7da102-c5cf-4f79-a2dd-f4a039b27f28" />
-<img width="861" height="523" alt="Screenshot 2026-04-10 183039" src="https://github.com/user-attachments/assets/3a5e60a4-5bbf-42ac-9ad5-48d0a7d3e485" />
-<img width="752" height="219" alt="Screenshot 2026-04-10 182330" src="https://github.com/user-attachments/assets/3f188530-acb5-4a73-8482-3f47ac8940e5" />
  Directory GPO Password Recovery
 
 Objective
